@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hosachiguru/static/css/main.073c9b0a.css",
+    "main.js": "/hosachiguru/static/js/main.d2e53a23.js",
+    "static/js/787.24a484f2.chunk.js": "/hosachiguru/static/js/787.24a484f2.chunk.js",
+    "index.html": "/hosachiguru/index.html",
+    "main.073c9b0a.css.map": "/hosachiguru/static/css/main.073c9b0a.css.map",
+    "main.d2e53a23.js.map": "/hosachiguru/static/js/main.d2e53a23.js.map",
+    "787.24a484f2.chunk.js.map": "/hosachiguru/static/js/787.24a484f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d2e53a23.js"
+  ]
+}
